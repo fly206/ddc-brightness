@@ -1,0 +1,6 @@
+{
+    "uuid": "ddc-brightness@fly206",
+    "name": "DDC Brightness",
+    "description": "Easy to change the brightness of the monitor using ddcutil",
+    "icon": "display-brightness-high-symbolic"
+}
