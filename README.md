@@ -1,6 +1,6 @@
 # DDC Brightness
 
-Easy to change the brightness of the monitor using ddcutil.
+A Cinnamon applet easy to change the brightness of the monitor
 
 ### Requirements:
 Need `ddcutil` tool.It can be installed wih the Synaptic Package Manager or using the following terminal command:
